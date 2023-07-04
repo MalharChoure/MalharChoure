@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Malhar Choure</h1>
 <h3 align="center">A passionate Game Developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.webpronews.com/wp-content/uploads/2021/01/Unity-Logo-Credit-Unity-Verizon.jpg")
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malharchoure" alt="malharchoure" /></a> </p>
 
