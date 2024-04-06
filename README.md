@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **chouremalhar@gmail.com**
 
-- ⚡ Fun fact **I am currently pursuing my third year in Electronics and Telecommunication engineering.**
+- ⚡ Fun fact **I am currently pursuing my last year in Electronics and Telecommunication engineering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
