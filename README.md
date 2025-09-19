@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **chouremalhar@gmail.com**
 
-- ⚡ Fun fact **I am currently pursuing my last year in Electronics and Telecommunication engineering.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/malhar choure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malhar choure" height="30" width="40" /></a>
