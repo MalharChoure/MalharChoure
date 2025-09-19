@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malharchoure" alt="malharchoure" /></a> </p>
 
-- 🔭 I’m currently working on **Wave Function Collapse Algorithm**
+- 🔭 I’m currently working on ** A personal 2D top down rogulike **
 
-- 🌱 I’m currently learning **Unity 3D**
+- 🌱 I’m always learning **Unity 3D**
 
 - 👯 I’m looking to collaborate on **Optimizations in Unity**
 
